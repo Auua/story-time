@@ -5,9 +5,25 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  --indigo-dye: hsla(209, 87%, 40%, 1);
+  --lemon-meringue: hsla(48, 19%, 98%, 1);
+  --orange-yellow-crayola: hsla(47, 61%, 96%, 1);
+  --sandy-brown: hsla(28, 68%, 93%, 1);
+  --orange-soda: hsla(10, 78%, 98%, 1);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+
+
+/* SCSS HEX */
+/* $indigo-dye: #0d3b66ff;
+$lemon-meringue: #faf0caff;
+$orange-yellow-crayola: #f4d35eff;
+$sandy-brown: #ee964bff;
+$orange-soda: #f95738ff; */
